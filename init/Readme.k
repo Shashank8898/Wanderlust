@@ -1,0 +1,1 @@
+The init folder is only for deleting n then adding all the data.
