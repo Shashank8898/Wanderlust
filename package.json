@@ -3,8 +3,6 @@
     "node":"20.17.0"
   },
   "dependencies": {
-    "git": "2.46.1.windows.1",
-    "node": "20.17.0",
     "cloudinary": "^1.41.3",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^5.1.0",
